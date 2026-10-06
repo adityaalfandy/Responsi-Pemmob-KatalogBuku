@@ -1,3 +1,10 @@
+## Pembuat
+Nama : Aditya Alfandy
+NIM  : H1D024103
+Shift Awal : I
+Shift Akhir : H
+
+
 # KatalogBuku
 
 Aplikasi Android untuk mencari dan melihat katalog buku dari OpenLibrary API.
@@ -8,7 +15,7 @@ Dibuat dengan Kotlin, Jetpack Compose, dan arsitektur MVVM.
 ## Screenshot
 | Home | Detail |
 |---|---|
-| ![Home](screenshots/home.png) | ![Detail](screenshots/detail.png) |
+| ![Home](screenshots/home.jpeg) | ![Detail](screenshots/detail.jpeg) |
 
 ## Fitur
 - Pencarian buku berdasarkan kata kunci
@@ -60,4 +67,4 @@ Unduh di bagian Releases atau `app-debug.apk`.
 (link video)
 
 ## Pembuat
-Nama · NIM · Kelas
+
