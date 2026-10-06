@@ -10,7 +10,7 @@ Shift Akhir : H
 Aplikasi Android untuk mencari dan melihat katalog buku dari OpenLibrary API.
 Dibuat dengan Kotlin, Jetpack Compose, dan arsitektur MVVM.
 
-<img src="assets/icons/ic_launcher_playstore_512.png" width="96" />
+<img src="screenshots/ic_launcher_playstore_512.png" width="96" />
 
 ## Screenshot
 | Home | Detail |
@@ -65,6 +65,3 @@ Unduh di bagian Releases atau `app-debug.apk`.
 
 ## Video penjelasan
 (link video)
-
-## Pembuat
-
