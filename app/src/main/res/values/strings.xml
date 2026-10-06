@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">KatalogBuku</string>
+    <string name="search_placeholder">Cari judul, penulis…</string>
+    <string name="search_clear">Hapus teks pencarian</string>
+    <string name="loading_books">Memuat buku…</string>
+    <string name="empty_title">Buku tidak ditemukan untuk \"%1$s\"</string>
+    <string name="empty_hint">Coba ganti kata kunci pencarian Anda.</string>
+    <string name="retry">Coba lagi</string>
+    <string name="error_network">Tidak dapat terhubung. Periksa koneksi internet Anda.</string>
+    <string name="error_server">Server bermasalah. Coba lagi nanti.</string>
+    <string name="error_unknown">Terjadi kesalahan tak terduga.</string>
+    
+    <string name="detail_title">Detail Buku</string>
+    <string name="back">Kembali</string>
+    <string name="label_author">PENULIS</string>
+    <string name="label_year">TAHUN TERBIT</string>
+    <string name="label_edition">JUMLAH EDISI</string>
+    <string name="label_language">BAHASA</string>
+    <string name="unknown_title">Tanpa judul</string>
+    <string name="unknown_author">Penulis tidak diketahui</string>
+    <string name="unknown_year">Tahun tidak tersedia</string>
+    <string name="unavailable">Data buku tidak tersedia</string>
+    <string name="book_not_found">Buku tidak ditemukan</string>
+    <string name="not_available">Tidak tersedia</string>
+    <string name="edition_format">%1$d edisi</string>
+    <string name="other_languages">, +%1$d lainnya</string>
+    <string name="first_publish_prefix">Terbit pertama: %1$s</string>
+    <string name="icon_search">🔍</string>
+    <string name="icon_clear">✕</string>
+    <string name="icon_warning">⚠️</string>
+    <string name="icon_back">←</string>
+    <string name="app_title_home">KatalogBuku</string>
+</resources>
