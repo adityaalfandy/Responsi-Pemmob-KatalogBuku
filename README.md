@@ -60,8 +60,7 @@ Kotlin · Jetpack Compose (Material 3) · Navigation Compose · Lifecycle ViewMo
 2. Buka di Android Studio (versi terbaru yang mendukung AGP 9.x)
 3. Sync Gradle, jalankan di emulator/perangkat (butuh internet)
 
-## APK
-Unduh di bagian Releases atau `app-debug.apk`.
+
 
 ## Video penjelasan
-(link video)
+https://youtu.be/r6yoTO4LgzU
